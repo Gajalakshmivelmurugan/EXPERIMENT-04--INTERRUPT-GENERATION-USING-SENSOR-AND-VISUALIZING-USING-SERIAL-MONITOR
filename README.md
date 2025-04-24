@@ -172,7 +172,8 @@ PUTCHAR_PROTOTYPE{
 
  
  ## Circuit board :
- ![WhatsApp Image 2025-04-24 at 19 32 07_ededf00f](https://github.com/user-attachments/assets/68cec859-6fde-4626-b51f-da57dec2b522)
+![WhatsApp Image 2025-04-24 at 19 32 07_ededf00f](https://github.com/user-attachments/assets/63f9ffdb-1397-41cf-a70c-e5dbdcff0f9c)
+
 
 
  
